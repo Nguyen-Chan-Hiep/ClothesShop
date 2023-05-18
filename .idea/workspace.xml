@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="56796b2f-abb8-428f-8a22-45bc9f17cd49" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/Action/ShoppingCartDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/Action/ShoppingCartDto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/Monhang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/Monhang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/ShoppingCart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/ShoppingCart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/dondathang_fAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/DonDatHang_fAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/monhang2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/DTO/MonHang2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/admin/employeeRespon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/admin/employeeRespon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/admin/employeesResponImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/admin/employeesResponImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/categories/categoriesRespon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/categories/categoriesRespon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/categories/categoriesResponImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/categories/categoriesResponImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers/customersRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers/customersRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers/customersRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers/customersRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers_info/customers_infoRespon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers_info/customers_infoRespon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers_info/customers_infoResponImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/customers_info/customers_infoResponImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/dondathang/dondathangRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/dondathang/dondathangRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/dondathang/dondathangRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/dondathang/dondathangRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Color/product_ColorRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Color/product_ColorRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Color/product_ColorRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Color/product_ColorRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Size/product_SizeRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Size/product_SizeRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Size/product_SizeRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/product_Size/product_SizeRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/products/productsRespon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/products/productsRespon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/products/productsResponImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/products/productsResponImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/tg_product_size_color/tg_product_size_colorRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/tg_product_size_color/tg_product_size_colorRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/tg_product_size_color/tg_product_size_colorRepoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Repository/tg_product_size_color/tg_product_size_colorRepoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/categories/categoriesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/categories/categoriesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/categories/categoriesServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/categories/categoriesServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers/customersService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers/customersService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers/customersServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers/customersServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers_info/customer_infoServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers_info/customer_infoServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers_info/customers_infoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/customers_info/customers_infoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/dondathang/dondathangService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/dondathang/dondathangService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/dondathang/dondathangServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/dondathang/dondathangServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/employees/employeeesSreviceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/employees/employeeesSreviceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/employees/employeesService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/employees/employeesService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Color/product_ColorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Color/product_ColorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Color/product_ColorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Color/product_ColorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Size/product_SizeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Size/product_SizeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Size/product_SizeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/product_Size/product_SizeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/products/productsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/products/productsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/products/productsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/products/productsServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/tg_product_size_color/tg_product_size_colorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/tg_product_size_color/tg_product_size_colorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/tg_product_size_color/tg_product_size_colorServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Service/tg_product_size_color/tg_product_size_colorServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/api/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Api/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/auth/MyDBAuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Auth/MyDBAuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/AppConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/AppContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/AppContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/SpringMvcDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/SpringMvcDispatcherServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/SpringSecurityInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/SpringSecurityInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/config/WebSocketBrokerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Config/WebSocketBrokerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/controller/MessageController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Controller/MessageController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/controller/admin/AdminHomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Controller/Admin/AdminHomeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/controller/user/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Controller/User/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/categories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/customers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/customers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/customers_info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/customers_info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/dondathang.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/dondathang.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/employees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/employees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/product_Color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/product_Color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/product_Size.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/product_Size.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/products.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/products.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ltweb/entity/tg_product_size_color.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ltweb/Entity/tg_product_size_color.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/Detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/Detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/product.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/user/product.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/DTO/Monhang.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/DTO/Monhang.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/admin/employeesResponImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/admin/employeesResponImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/dondathang/dondathangRepoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/dondathang/dondathangRepoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/products/productsResponImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/Repository/products/productsResponImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/controller/LoginController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/com/ltweb/controller/LoginController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/database.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/classes/database.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/views/admin/ManagerOrders.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/views/admin/ManagerOrders.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/views/user/Detail.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/BTLLTUDWEB-0.0.1-SNAPSHOT/WEB-INF/views/user/Detail.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ltweb/Repository/products/productsResponImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ltweb/Repository/products/productsResponImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.btlltudweb/BTLLTUDWEB/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/m2e-wtp/web-resources/META-INF/maven/com.btlltudweb/BTLLTUDWEB/pom.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KOCLpE49O8bFxHj96VilH5I3Wv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "H:/eclipse/BTLLTUDWEB"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56796b2f-abb8-428f-8a22-45bc9f17cd49" name="Changes" comment="" />
+      <created>1673836195050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673836195050</updated>
+    </task>
+    <servers />
+  </component>
+</project>

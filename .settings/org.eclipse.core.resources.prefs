@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/ltweb/api/ApiController.java=UTF-8
+encoding//src/main/java/com/ltweb/config/WebSecurityConfig.java=UTF-8
+encoding//src/main/java/com/ltweb/controller/user/UserController.java=UTF-8
+<<<<<<< HEAD
+encoding//src/main/webapp/WEB-INF/views/user/footer.jsp=UTF-8
+=======
+encoding//src/main/webapp/WEB-INF/views/user/header.jsp=UTF-8
+>>>>>>> 0da4679a5be863aa99759213eb61ed01b300e43a
